@@ -66,6 +66,16 @@ const projects = () => {
         <Link href="https://positivus-clone-final.netlify.app/"><button className="flex mx-auto mt-6 text-white bg-purple-900 border-0 py-2 px-5 focus:outline-none hover:bg-green-800 rounded">Check it out!</button></Link>
       </div>
 
+      {/* Card4 */}
+<div className="sm:w-1/2 mb-10 px-4">
+        <div className="rounded-lg h-64 overflow-hidden">
+          <img alt="content" className="rounded object-contain object-center h-full w-full" src="/foodWagon.PNG"/>
+        </div>
+        <h2 className="title-font text-2xl font-medium text-gray-100 mt-6 mb-3">FoodWagon Webpage Clone </h2>
+        <p className="leading-relaxed text-gray-400">This is the clone webpage and it mainly focused on Html and Css</p>
+        <Link href="https://foodwagon-clone1.netlify.app/"><button className="flex mx-auto mt-6 text-white bg-purple-900 border-0 py-2 px-5 focus:outline-none hover:bg-green-800 rounded">Check it out!</button></Link>
+      </div>
+
     </div>
   </div>
 </section>
