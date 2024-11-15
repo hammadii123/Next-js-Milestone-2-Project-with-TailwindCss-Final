@@ -1,6 +1,8 @@
 import React from "react";
 import "../src/app/globals.css";
 import Navbar from "./../components/Navbar";
+import Footer from "../components/Footer";
+
 
 const contact = () => {
   return (
@@ -91,6 +93,7 @@ const contact = () => {
         </div>
       </div>
     </section>
+    <Footer />
     </>
   );
   
