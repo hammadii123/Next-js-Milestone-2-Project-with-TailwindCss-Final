@@ -16,10 +16,10 @@ export default function Home() {
           <div className="space-y-4 flex flex-col justify-center text-center">
             <h1 className=" text-white text-4xl font-bold animate-bounceOnce" style={{fontFamily:"Raleway"}}>Hammad Mustafa</h1>
             <h1 className="text-2xl font-semibold text-yellow-50 animate-fadeIn">
-              🔧 Expert Java Software Engineer | Python Developer | Generative AI Enthusiast 🚀
+              🔧 Front End Engineer | Python Developer | Generative AI Enthusiast 🚀
             </h1>
             <p className="text-grey-900 animate-slideInLeft">
-              As a dedicated Software Engineer with a focus on Java, I excel in crafting efficient, scalable, and robust software solutions...
+              As a dedicated Software Engineer with a focus on Full Stack, I excel in crafting efficient, scalable, and robust software solutions...
             </p>
             <Link href={"https://www.linkedin.com/in/hammad-mustafa2/"}> <button className="btn bg-slate-800 hover:bg-blue-900 w-56 text-white animate-pulse">Connect With me</button></Link>
           </div>
